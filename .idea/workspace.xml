@@ -2,20 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6db8a2aa-7881-4516-8e3e-4b0de3d78819" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/abstract_practice/AbstractClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/abstract_practice/Q1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/abstract_practice/Q2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/abstract_practice/Q3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interface_practice/InterfaceExtendingInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interface_practice/MultipleInheritanceFromClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interface_practice/SimpleInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop_practice/ATM.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop_practice/Aggregation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop_practice/Covarent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop_practice/Encapsulation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop_practice/StudentName.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop_practice/TypeCasting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/polymorphism/Polymorphism.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice_projects/numberguess/GuessTheNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice_projects/numberguess/GuessTheNumberWithLimit.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,26 +36,13 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Encapsulation">
+  <component name="RunManager" selected="Application.GuessTheNumberWithLimit">
     <configuration name="AbstractClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="abstract_practice.AbstractClass" />
       <module name="MyProjects" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="abstract_practice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Aggregation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oop_practice.Aggregation" />
-      <module name="MyProjects" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="oop_practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,6 +63,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="GuessTheNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice_projects.numberguess.GuessTheNumber" />
+      <module name="MyProjects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practice_projects.numberguess.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GuessTheNumberWithLimit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice_projects.numberguess.GuessTheNumberWithLimit" />
+      <module name="MyProjects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practice_projects.numberguess.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Polymorphism" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="polymorphism.Polymorphism" />
       <module name="MyProjects" />
@@ -101,26 +102,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TypeCasting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oop_practice.TypeCasting" />
-      <module name="MyProjects" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="oop_practice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GuessTheNumberWithLimit" />
+        <item itemvalue="Application.GuessTheNumber" />
         <item itemvalue="Application.Encapsulation" />
         <item itemvalue="Application.AbstractClass" />
         <item itemvalue="Application.Polymorphism" />
-        <item itemvalue="Application.Aggregation" />
-        <item itemvalue="Application.TypeCasting" />
       </list>
     </recent_temporary>
   </component>
