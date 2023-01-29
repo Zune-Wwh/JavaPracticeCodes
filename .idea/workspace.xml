@@ -2,8 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6db8a2aa-7881-4516-8e3e-4b0de3d78819" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/inheritance/HierarchicalInheritance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/inheritance/MultiLevelInheritance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstract_practice/AbstractClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstract_practice/Q1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstract_practice/Q2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstract_practice/Q3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interface_practice/InterfaceExtendingInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interface_practice/MultipleInheritanceFromClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interface_practice/SimpleInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop_practice/ATM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop_practice/Aggregation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop_practice/Covarent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop_practice/Encapsulation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop_practice/StudentName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop_practice/TypeCasting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/polymorphism/Polymorphism.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,13 +48,13 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.MultiLevelInheritance">
-    <configuration name="BillPackageOOP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="billpackage.BillPackageOOP" />
+  <component name="RunManager" selected="Application.Encapsulation">
+    <configuration name="AbstractClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="abstract_practice.AbstractClass" />
       <module name="MyProjects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="billpackage.*" />
+          <option name="PATTERN" value="abstract_practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -50,12 +62,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Dog" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="inheritance.Dog" />
+    <configuration name="Aggregation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oop_practice.Aggregation" />
       <module name="MyProjects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="inheritance.*" />
+          <option name="PATTERN" value="oop_practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -63,12 +75,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HierarchicalInheritance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="inheritance.HierarchicalInheritance" />
+    <configuration name="Encapsulation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oop_practice.Encapsulation" />
       <module name="MyProjects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="inheritance.*" />
+          <option name="PATTERN" value="oop_practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -76,12 +88,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MultiLevelInheritance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="inheritance.MultiLevelInheritance" />
+    <configuration name="Polymorphism" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="polymorphism.Polymorphism" />
       <module name="MyProjects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="inheritance.*" />
+          <option name="PATTERN" value="polymorphism.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,12 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SimpleBillPackage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="billpackage.SimpleBillPackage" />
+    <configuration name="TypeCasting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oop_practice.TypeCasting" />
       <module name="MyProjects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="billpackage.*" />
+          <option name="PATTERN" value="oop_practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MultiLevelInheritance" />
-        <item itemvalue="Application.HierarchicalInheritance" />
-        <item itemvalue="Application.Dog" />
-        <item itemvalue="Application.BillPackageOOP" />
-        <item itemvalue="Application.SimpleBillPackage" />
+        <item itemvalue="Application.Encapsulation" />
+        <item itemvalue="Application.AbstractClass" />
+        <item itemvalue="Application.Polymorphism" />
+        <item itemvalue="Application.Aggregation" />
+        <item itemvalue="Application.TypeCasting" />
       </list>
     </recent_temporary>
   </component>
